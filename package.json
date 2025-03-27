@@ -1,0 +1,21 @@
+{
+  "name": "js-backend",
+  "version": "1.0.0",
+  "description": "backend server for js learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "learning",
+    "ja"
+  ],
+  "author": "aditya sharma",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
